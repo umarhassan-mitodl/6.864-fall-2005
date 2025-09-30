@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "27feee8b-555d-b2e7-5e27-71a4f7ff7683",
+  "instructors": {
+    "content": [
+      "ebb61145-1d54-4a40-ddbb-1fc2895c2bb3",
+      "a320c7e4-cb9e-c224-327f-5f1be02e655a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0372fc2f-2574-0026-a775-180dae62a8a6",
+    "website": "6-864-advanced-natural-language-processing-fall-2005"
+  },
+  "course_title": "Advanced Natural Language Processing",
+  "hide_download": true,
+  "course_description": "This course is a graduate introduction to natural language processing - the study of human language from a computational perspective. It covers syntactic, semantic and discourse processing models, emphasizing machine learning or corpus-based methods and algorithms. It also covers applications of these methods and models in syntactic parsing, information extraction, statistical machine translation, dialogue systems, and summarization. The subject qualifies as an Artificial Intelligence and Applications concentration subject.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.864",
+  "course_image_thumbnail": {
+    "content": "a2cefdd8-09d5-43ec-6d73-d58411850674",
+    "website": "6-864-advanced-natural-language-processing-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "bf688524-d011-4145-8580-61c05e80aa36",
+  "site_short_id": "6.864-fall-2005",
+  "site_url_path": "courses/6-864-advanced-natural-language-processing-fall-2005",
+  "title": "Course Metadata"
+}
